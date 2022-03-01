@@ -1,0 +1,10 @@
+FLASK
+Flask-Cors==3.0.8
+gevent
+pdf2image==1.16.0
+Werkzeug==2.0.2
+requests
+numpy
+python
+wheel
+git
